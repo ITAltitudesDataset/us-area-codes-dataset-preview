@@ -24,56 +24,137 @@ The free buyer preview allows users to examine the data structure, sample record
 
 ## Download the Free Buyer Preview
 
-**Free Excel preview:** [Download the 50-Row Buyer Preview](US_Area_Codes_GitHub_50_Row_Buyer_Preview.xlsx)
+**[Download the 50-Row Excel Buyer Preview](US_Area_Codes_GitHub_50_Row_Buyer_Preview.xlsx)**
 
-The preview provides an opportunity to evaluate:
+The preview allows buyers to evaluate:
 
-- Area code records and associated reference information
+- Area code records and geographic information
 - Geographic and non-geographic classifications
-- Available area code status information
-- Field definitions and dataset organization
+- Area code status and reference fields
+- Data structure and field definitions
 - Documentation and usage limitations
 
-The preview contains only a limited selection of records. It does not represent the complete dataset.
+The preview represents only a limited selection of records from the complete dataset.
+
+## View Certificates
+
+Explore the supporting documents prepared by IT Altitudes to understand the dataset's reported validation checks, intended benefits, and practical applications.
+
+### 1. Content Validation Certificate
+
+**[View Content Validation Certificate](certificates/Content%20Validation%20Certificate%20Infographic%281%29.png)**
+
+This certificate summarizes:
+
+- Data structure and formatting checks
+- Source field review
+- Geographic classification and mapping checks
+- Data consistency and completeness review
+- Documentation and usability assessment
+
+### 2. Buyer Benefits & Value Certificate
+
+**[View Buyer Benefits & Value Certificate](certificates/Buyer%20Benefits%20%26%20Value%20Certificate%281%29.png)**
+
+This certificate explains:
+
+- Why the structured dataset is useful
+- Potential time savings
+- Intended buyer audiences
+- Business and research applications
+- Value of the documentation and prepared reference information
+
+*Both certificates are provider-prepared informational materials. They do not represent official NANPA certification or independent accreditation.*
 
 ## Why Choose the Complete Dataset?
 
-The complete IT Altitudes buyer kit provides a broader, structured reference for U.S. area code analysis.
+The complete IT Altitudes buyer kit provides broader reference coverage and additional documentation for U.S. area code research.
 
 **Key benefits:**
 
-- **Save research time:** Access organized reference information without manually assembling individual records.
-- **Support geographic analysis:** Explore area code relationships with U.S. states and regions.
-- **Improve data enrichment:** Use area code reference fields in compatible business and analytical workflows.
-- **Simplify analysis:** Work with an Excel-ready structure suitable for further processing in Python, R, and other tools.
-- **Understand the data:** Use accompanying documentation to interpret fields, methodology, and limitations.
+- **Time-saving:** Access organized area code information without manually assembling individual records.
+- **Geographic research:** Explore relationships between area codes, states, and regions.
+- **Data enrichment:** Use area code reference fields in compatible analytical workflows.
+- **Ready for analysis:** Work with structured Excel data that can also be processed using Python or R.
+- **Clear documentation:** Understand field meanings, methodology, sources, and limitations.
 
-The product's value comes from its organization, documentation, and usability. The underlying official source information is publicly available.
+The underlying official source data is publicly available. The value of the buyer kit comes from its organization, preparation, documentation, and usability.
 
 ## Who Can Benefit?
 
 | Audience | Potential Use |
 |---|---|
-| Telecommunications professionals | Area code reference and network research |
+| Telecommunications professionals | Area code reference and telecom research |
 | Market researchers | Regional and geographic analysis |
-| Business analysts | Market planning and reference enrichment |
-| Data analysts and scientists | Data cleaning, matching, and analytical workflows |
-| GIS professionals | Geographic reference and mapping support |
-| Software developers | Area code lookup and application development |
-| Educational researchers | Telecommunications and regional research |
+| Business analysts | Market planning and data enrichment |
+| Data analysts and scientists | Data preparation and analytical workflows |
+| GIS professionals | Geographic reference and mapping |
+| Software developers | Area code lookup applications |
+| Educational researchers | Telecommunications research |
 
-## Full Buyer Kit vs. Free Preview
+## Free Preview vs. Complete Buyer Kit
 
-| Feature | Free Preview | Full Buyer Kit |
+| Feature | Free Preview | Complete Buyer Kit |
 |---|---|---|
-| Dataset records | 50 selected records | Full prepared dataset |
-| Geographic reference information | Limited sample | Expanded coverage |
+| Records | 50 selected records | Full prepared dataset |
+| Geographic reference | Limited sample | Expanded coverage |
 | Area code classifications | Sample coverage | Full available coverage |
-| Data dictionary | Preview-level documentation | Full documentation |
-| Methodology and source information | Summary | Detailed documentation |
-| Quality and limitations information | Summary | Expanded documentation |
+| Data dictionary | Preview documentation | Full documentation |
+| Methodology | Summary | Detailed documentation |
+| Quality information | Summary | Expanded documentation |
 | License and usage terms | Included | Included |
 
 ## Purchase the Complete Dataset
 
-**Ready to explore the full U.S. Area Codes & Geographic Reference Dataset
+**Need broader coverage and detailed documentation?**
+
+The full U.S. Area Codes & Geographic Reference Dataset is designed for researchers, businesses, analysts, and developers who need structured reference information.
+
+**[Purchase the Complete Dataset on Gumroad](#)**
+
+*Gumroad product link will be added after launch and source rights verification.*
+
+## Source Attribution
+
+**Original source:** North American Numbering Plan Administration (NANPA)
+
+**Source file:** `npa_report.csv`
+
+**Snapshot date:** October 30, 2026
+
+IT Altitudes has prepared additional organization, formatting, documentation, and reference materials around the source information.
+
+IT Altitudes is not affiliated with, sponsored by, endorsed by, or certified by NANPA.
+
+## Data Quality & Important Limitations
+
+- This is a static reference snapshot, not a real-time numbering database.
+- Area codes do not guarantee a subscriber's physical location.
+- Some records may represent planned, reserved, or non-geographic area codes.
+- Geographic mappings may be approximate or represent multiple service regions.
+- Users should verify current information with authoritative sources before consequential decisions.
+- Provider validation statements do not guarantee completeness or accuracy.
+
+## License & Usage
+
+The free preview is intended for evaluation and informational use, subject to applicable source rights and usage terms.
+
+Redistribution, sublicensing, or resale of IT Altitudes' prepared materials is not authorized without applicable permission.
+
+Public availability of the underlying source information does not automatically establish unrestricted redistribution rights. Applicable NANPA source terms must be respected.
+
+## About IT Altitudes
+
+**IT Altitudes** prepares structured, documented reference datasets for research, analytics, business intelligence, and development workflows.
+
+Our goal is to make complex reference information easier to explore, understand, and use.
+
+**Product inquiries and support:**
+
+support@italtitudesdataset.zohodesk.in
+
+---
+
+**Explore the free preview. Review the certificates. Discover the value of the complete dataset.**
+
+*© 2026 IT Altitudes. Original documentation and value-added materials subject to applicable rights.*
