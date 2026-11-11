@@ -172,3 +172,12 @@ support@italtitudesdataset.zohodesk.in
 **Explore the free preview. Review the certificates. Discover the value of the complete dataset.**
 
 *© 2026 IT Altitudes. Original documentation and value-added materials subject to applicable rights.*
+
+## Explore More Datasets from IT Altitudes Inc.
+
+- [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
+- [US CRE Loan Maturity & Risk](https://github.com/ITAltitudesDataset/us-cre-loan-maturity-risk-dataset-preview)
+- [Global Tariff Realignment](https://github.com/ITAltitudesDataset/Global-Tariff-Realignment-Dataset-Preview)
+- [Geothermal Electricity Capacity](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset)
+
+**[Explore Our Complete Dataset Catalog](https://github.com/ITAltitudesDataset)**
