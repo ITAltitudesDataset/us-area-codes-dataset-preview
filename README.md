@@ -187,6 +187,17 @@ support@italtitudesdataset.zohodesk.in
 
 ---
 
+## License & Disclaimer
+
+- [Preview License & Usage Terms](LICENSE.md)
+- [Source Attribution & Liability Disclaimer](DISCLAIMER.md)
+
+This dataset is a static U.S. area code reference snapshot intended for research and analytical use.
+
+Underlying NANPA source information and IT Altitudes' original value-added materials remain subject to their respective applicable rights.
+
+---
+
 **Explore the free preview. Review the certificates. Discover the value of the complete dataset.**
 
 *© 2026 IT Altitudes Inc. Original documentation and value-added materials subject to applicable rights.*
