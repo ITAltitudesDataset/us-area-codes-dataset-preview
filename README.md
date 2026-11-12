@@ -1,12 +1,14 @@
-# U.S. Area Codes & Geographic Reference Dataset — Free Buyer Preview
+# U.S. Area Codes & Geographic Reference Dataset — Preview
 
 **IT Altitudes Inc. | U.S. Telecommunications & Geographic Reference Data | October 30, 2026**
+
+**Free Preview Formats: Excel (.xlsx) | CSV (.csv) | JSON (.json)**
 
 ## Dataset Overview
 
 Explore a structured reference dataset covering U.S. telephone area codes, geographic relationships, area code status, and related telecommunications information.
 
-Prepared by **IT Altitudes**, this dataset is designed to support telecom research, market analysis, geographic data enrichment, business planning, and analytical workflows.
+Prepared by **IT Altitudes Inc.**, this dataset is designed to support telecom research, market analysis, geographic data enrichment, business planning, and analytical workflows.
 
 The free buyer preview allows users to examine the data structure, sample records, and supporting documentation before purchasing the complete dataset.
 
@@ -18,9 +20,7 @@ Upgrade from the free 50-row preview to the complete IT Altitudes U.S. Area Code
 
 The full buyer kit provides structured reference information, additional lookup views, data documentation, and supporting materials for telecommunications research, geographic analysis, and business intelligence.
 
-Get the Complete Buyer Kit
-
-Purchase the Full Dataset on Gumroad (https://italtitudes.gumroad.com/l/wehmwd)
+**[Purchase the Full Dataset on Gumroad](https://italtitudes.gumroad.com/l/wehmwd)**
 
 Explore the free preview, review the certificates, and choose the complete dataset when you're ready for broader coverage.
 
@@ -33,12 +33,31 @@ Explore the free preview, review the certificates, and choose the complete datas
 | Full source records | 800 |
 | U.S.-labeled records | 402 |
 | Free preview | 50 representative records |
-| Format | Microsoft Excel (.xlsx) |
-| Provider | IT Altitudes |
+| Preview formats | Excel (.xlsx), CSV (.csv), JSON (.json) |
+| Provider | IT Altitudes Inc. |
 
 ## Download the Free Buyer Preview
 
-**[Download the 50-Row Excel Buyer Preview](US_Area_Codes_GitHub_50_Row_Buyer_Preview.xlsx)**
+Explore the same 50-record preview in your preferred format.
+
+| Format | Recommended For | Download |
+|---|---|---|
+| Excel (.xlsx) | Spreadsheet analysis and reviewing documentation | [Download Excel Preview](US_Area_Codes_GitHub_50_Row_Buyer_Preview.xlsx) |
+| CSV (.csv) | Python, R, SQL, and analytical workflows | [View CSV Preview](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview) |
+| JSON (.json) | Software development, application testing, and data integration | [Download JSON Preview](US_Area_Codes_50_Row_Preview.json) |
+
+### Why Multiple Formats?
+
+- **Excel:** Convenient for spreadsheet-based analysis and reviewing supporting worksheets.
+- **CSV:** Suitable for importing data into Python, R, SQL, and business intelligence tools.
+- **JSON:** Useful for structured data processing, software applications, and integration testing.
+
+**Preview Details**
+
+- 50 selected records
+- 7 columns in the CSV and JSON preview
+- Matching source records across CSV and JSON
+- Static reference snapshot dated October 30, 2026
 
 The preview allows buyers to evaluate:
 
@@ -89,7 +108,7 @@ The complete IT Altitudes buyer kit provides broader reference coverage and addi
 - **Time-saving:** Access organized area code information without manually assembling individual records.
 - **Geographic research:** Explore relationships between area codes, states, and regions.
 - **Data enrichment:** Use area code reference fields in compatible analytical workflows.
-- **Ready for analysis:** Work with structured Excel data that can also be processed using Python or R.
+- **Ready for analysis:** Work with structured data that can be processed using Excel, Python, or R.
 - **Clear documentation:** Understand field meanings, methodology, sources, and limitations.
 
 The underlying official source data is publicly available. The value of the buyer kit comes from its organization, preparation, documentation, and usability.
@@ -113,6 +132,7 @@ The underlying official source data is publicly available. The value of the buye
 | Records | 50 selected records | Full prepared dataset |
 | Geographic reference | Limited sample | Expanded coverage |
 | Area code classifications | Sample coverage | Full available coverage |
+| Preview formats | Excel, CSV, JSON | See product page for included formats |
 | Data dictionary | Preview documentation | Full documentation |
 | Methodology | Summary | Detailed documentation |
 | Quality information | Summary | Expanded documentation |
@@ -124,9 +144,7 @@ The underlying official source data is publicly available. The value of the buye
 
 The full U.S. Area Codes & Geographic Reference Dataset is designed for researchers, businesses, analysts, and developers who need structured reference information.
 
-**[Purchase the Complete Dataset on Gumroad](#)**
-
-*Gumroad product link will be added after launch and source rights verification.*
+**[Purchase the Complete Dataset on Gumroad](https://italtitudes.gumroad.com/l/wehmwd)**
 
 ## Source Attribution
 
@@ -159,7 +177,7 @@ Public availability of the underlying source information does not automatically 
 
 ## About IT Altitudes
 
-**IT Altitudes** prepares structured, documented reference datasets for research, analytics, business intelligence, and development workflows.
+**IT Altitudes Inc.** prepares structured, documented reference datasets for research, analytics, business intelligence, and development workflows.
 
 Our goal is to make complex reference information easier to explore, understand, and use.
 
@@ -171,7 +189,7 @@ support@italtitudesdataset.zohodesk.in
 
 **Explore the free preview. Review the certificates. Discover the value of the complete dataset.**
 
-*© 2026 IT Altitudes. Original documentation and value-added materials subject to applicable rights.*
+*© 2026 IT Altitudes Inc. Original documentation and value-added materials subject to applicable rights.*
 
 ## Explore More Datasets from IT Altitudes Inc.
 
