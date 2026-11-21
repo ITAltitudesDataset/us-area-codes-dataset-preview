@@ -237,6 +237,30 @@ The following use cases illustrate how organizations can work with structured U.
 
 **Potential Buyer Value:** Provide organized reference information for educational research and practical analytical exercises.
 
+## Dataset Preview & Visual Insights
+
+### Sample Data Preview
+
+![US Area Codes Preview](us_area_codes_preview_screenshot.png)
+
+### Area Code Overlay Distribution — 50-Row Sample
+
+![US Area Codes Overlay Chart](us_area_codes_overlay_chart.png)
+
+Explore the free 50-row preview to review area code identifiers, state assignments, service dates, overlay status, and numbering plan information.
+
+**Preview highlights:**
+- 50 area code records
+- 9 dataset fields
+- 32 overlay-enabled records
+- 18 records without an overlay flag
+
+**Note:** These statistics describe the 50-row sample only, not the complete dataset.
+
+**[Get the Complete US Area Codes Dataset](https://italtitudes.gumroad.com/l/wehmwd)**
+
+For source information and limitations, see our [Data Quality Report](DATA_QUALITY_REPORT.md).
+
 ### Why Consider the Complete Buyer Kit?
 
 The free 50-row preview allows users to evaluate the dataset structure and selected area code records.
