@@ -100,6 +100,18 @@ This certificate explains:
 
 *Both certificates are provider-prepared informational materials. They do not represent official NANPA certification or independent accreditation.*
 
+## Machine Learning Demonstration
+
+Explore our reproducible K-Means clustering demonstration using the US Area Codes 50-row preview.
+
+The model groups area codes using service year and overlay-complex size, illustrating how machine learning can identify patterns in telecommunications reference data.
+
+**[View US Area Codes ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![US Area Codes ML Clustering](ml_demo/us_area_codes_ml_chart.png)
+
+*Educational demonstration only. Clusters do not predict future area-code assignments or identify callers' locations.*
+
 ## Why Choose the Complete Dataset?
 
 The complete IT Altitudes buyer kit provides broader reference coverage and additional documentation for U.S. area code research.
